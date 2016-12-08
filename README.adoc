@@ -1,3 +1,5 @@
 = mirah-extras
 
+image::https://api.travis-ci.org/felixvf/mirah-extras.png[alt="Build Status", link="http://travis-ci.org/felixvf/mirah-extras"]
+
 Useful code for Mirah Language software. This code is not (yet) part of the Mirah standard library.
