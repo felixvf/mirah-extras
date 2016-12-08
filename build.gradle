@@ -1,1 +1,8 @@
+plugins {
+	id 'org.mirah.lang' version '0.9'
+}
+
+dependencies {
+	compile 'org.mirah:mirah:0.2.2-SNAPSHOT'
+}
 
