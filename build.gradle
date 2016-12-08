@@ -2,7 +2,13 @@ plugins {
 	id 'org.mirah.lang' version '0.9'
 }
 
+repositories {
+	mavenCentral()
+}
+
 dependencies {
 	compile 'org.mirah:mirah:0.2.2-SNAPSHOT'
+	testCompile 'junit:junit:4.12'
+	testCompile 'org.assertj:assertj-core:2.6.0'
 }
 
